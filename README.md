@@ -1,4 +1,3 @@
-# DEND-Data_Pipeline_Airflow
 ## Loading S3 file with Airflow to ETL with Redshift
 
 The purpose of this project is to build an adapted data model thanks to python to load data in a JSON file format and wrangle them into a star schema (see the ERD) with the pipeline written as a code thanks to [AirFlow](https://airflow.apache.org/).
